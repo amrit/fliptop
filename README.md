@@ -1,6 +1,6 @@
 # Fliptop
 
-A Ruby wrapper for the Fliptop API.
+A super simple Ruby wrapper for the Fliptop API.
 
 ## Installation
 
